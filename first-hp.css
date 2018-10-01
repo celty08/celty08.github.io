@@ -1,0 +1,78 @@
+* {
+box-sizing:border-box;
+margin:0px;
+}
+
+.top {
+  background-color:#339999;
+  height:495px;
+  text-align:center;
+  font-family:"arial unicode ms";
+}
+
+.top h1 {
+  font-size:42px;
+  color:white;
+  padding-top:255px;
+  border-bottom:1px solid #fff;
+  padding-bottom:40px;
+}
+
+.main {
+  background-color:#f5f5dc;
+  color:#333333;
+  padding-top:90px;
+  padding-bottom:110px;
+  font-family:"arial unicode ms";
+  border-bottom:1px solid #696969;
+}
+
+.main h1 {
+  padding-left:130px;
+}
+
+.main p {
+  text-align:center;
+}
+
+.detail {
+  font-size:25px;
+  color:#222222;
+}
+
+.date {
+  padding-top:70px;
+  padding-bottom:25px;
+}
+
+.level {
+  padding-bottom:70px;
+}
+
+.language {
+  font-size:22px;
+  padding-bottom:20px;
+}
+
+.message {
+  background-color:#f5f5dc;
+  text-align:center;
+  padding-top:100px;
+  padding-bottom:90px;
+}
+
+.message p {
+  font-size:25px;
+  font-family:"Yu Gothic";
+  font-weight:520;
+  color:#333333;
+}
+
+.thanks {
+  background-color:#999966;
+  text-align:center;
+  font-family:"arial unicode ms";
+  padding:22px 0;
+  font-size:25px;
+  color:#333333;
+}
